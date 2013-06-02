@@ -13,7 +13,5 @@
         ReviewIt App
     </description>
 	
-	<preferences>
-		<preference name="phonegap-version" value="2.7.0" />
-	</preferences>
+	<preference name="phonegap-version" value="2.7.0" />
 </widget>
