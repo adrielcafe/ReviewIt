@@ -1,0 +1,19 @@
+{
+	"version": "1.0",
+	"name": "ReviewIt",
+	"description": "ReviewIt",
+	"launch_path": "/",
+	"appcache_path": "/cache.manifest",
+	"installs_allowed_from": ["*"],
+	"default_locale": "pt",
+	"icons": {
+		"32": "/icons/32.png",
+		"64": "/icons/64.png",
+		"128": "/icons/128.png",
+		"256": "/icons/256.png"
+	},
+	"developer": {
+		"name": "ReviewIt",
+		"url": "http://reviewit.elasticbeanstalk.com"
+	}
+}

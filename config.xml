@@ -14,4 +14,10 @@
     </description>
 	
 	<preference name="phonegap-version" value="2.7.0" />
+	
+	<icon src="icons/256.png" />
+	<icon src="icons/36.png" gap:platform="android" gap:density="ldpi" />
+	<icon src="icons/48.png" gap:platform="android" gap:density="mdpi" />
+	<icon src="icons/72.png" gap:platform="android" gap:density="hdpi" />
+	<icon src="icons/96.png" gap:platform="android" gap:density="xhdpi" />
 </widget>
